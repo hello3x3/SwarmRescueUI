@@ -62,6 +62,11 @@ directly run ./[Experiment_General_UED.py](./Experiment_General_UED.py)
 ```python
 python Experiment_General_UED.py
 ```
+### Visualization
+launch a web demo by streamlit
+```bash
+streamlit run app.py
+```
 ## File and Directory Explanations
 * ./Configurations/  
 > The initial positions of 200 UAVs
